@@ -11,11 +11,11 @@ A Web-based Chat Application which supports online chatting via a public Chatroo
 <table>
  	<tr>
 		<td><a href="/homepage.JPG"><img src="homepage.JPG"></a></td>
-		<td><a href=""><img src="Signin.JPG"></a></td>
+		<td><a href="Signin.JPG"><img src="Signin.JPG"></a></td>
 	</tr>
 	
  	<tr>
-		<td><a href=""><img src="Register.JPG"></a></td>
-		<td><a href=""><img src="chat.JPG"></a></td>
+		<td><a href="Register.JPG"><img src="Register.JPG"></a></td>
+		<td><a href="chat.JPG"><img src="chat.JPG"></a></td>
 	</tr>
 </table>
