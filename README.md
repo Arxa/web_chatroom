@@ -9,20 +9,13 @@ A Web-based Chat Application which supports online chatting via a public Chatroo
  - Nikiforos Archakis
 
 <table>
-<tr><a href=""><img src="homepage.JPG"></a></tr>
- <tr>
-		<td><b>Name</b></td>
-		<td><b>Email</b></td>
-		<td><b>Offer</b></td>
+ 	<tr>
+		<td><a href=""><img src="homepage.JPG"></a></td>
+		<td><a href=""><img src="chat.JPG"></a></td>
 	</tr>
- <tr>
-		<td><b>Name</b></td>
-		<td><b>Email</b></td>
-		<td><b>Offer</b></td>
-	</tr>
- <tr>
-		<td><b>Name</b></td>
-		<td><b>Email</b></td>
-		<td><b>Offer</b></td>
+	
+ 	<tr>
+		<td><a href=""><img src="Register.JPG"></a></td>
+		<td><a href=""><img src="Signin.JPG"></a></td>
 	</tr>
 </table>
