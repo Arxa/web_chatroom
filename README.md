@@ -10,7 +10,7 @@ A Web-based Chat Application which supports online chatting via a public Chatroo
 
 <table>
  	<tr>
-		<td><a href=""><img src="homepage.JPG"></a></td>
+		<td><a href="/homepage.JPG"><img src="homepage.JPG"></a></td>
 		<td><a href=""><img src="Signin.JPG"></a></td>
 	</tr>
 	
