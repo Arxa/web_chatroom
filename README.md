@@ -9,7 +9,7 @@ A Web-based Chat Application which supports online chatting via a public Chatroo
  - Nikiforos Archakis
 
 <table>
-<tr><a href=""><img src=""></a></tr>
+<tr><a href=""><img src="homepage.jpg"></a></tr>
  <tr>
 		<td><b>Name</b></td>
 		<td><b>Email</b></td>
