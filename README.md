@@ -1,7 +1,7 @@
 # ChatStorm
 -- A Web-based Chat Application --
 
-A Web-based Chat Application which supports online chatting via a public Chatroom. Registration and Login features are implemented. The following technologies were also used: MySQL, JQuery, Object-Oriented PHP HTML5 and CSS.
+A Web-based Chat Application which supports online chatting via a public Chatroom. Registration and Login features are implemented. The following technologies were also used: <b>MySQL</b>, <b>JQuery</b>, <b>Object-Oriented PHP</b> <b>HTML5</b> and <b>CSS</b>.
 
 <a href="http://chatstorm.3eeweb.com/arxa/PHP/index.php">Website Link</a>
 <br/>
