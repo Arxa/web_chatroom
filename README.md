@@ -8,14 +8,11 @@ A Web-based Chat Application which supports online chatting via a public Chatroo
  - January 2016, Thessaloniki, Greece
  - Nikiforos Archakis
 
-<table>
- 	<tr>
-		<td><a href="/homepage.JPG"><img src="homepage.JPG"></a></td>
-		<td><a href="Signin.JPG"><img src="Signin.JPG"></a></td>
-	</tr>
+
+ 	
+<a href="/homepage.JPG"><img src="homepage.JPG"></a>
+<a href="Signin.JPG"><img src="Signin.JPG"></a>
+<a href="Register.JPG"><img src="Register.JPG"></a>
+<a href="chat.JPG"><img src="chat.JPG"></a>
 	
- 	<tr>
-		<td><a href="Register.JPG"><img src="Register.JPG"></a></td>
-		<td><a href="chat.JPG"><img src="chat.JPG"></a></td>
-	</tr>
-</table>
+
